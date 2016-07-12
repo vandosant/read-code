@@ -9,4 +9,4 @@
 
 # Elm
 
-_Please contribute! New language sections aboslutely welcome!_
+_Please contribute! New language sections absolutely welcome!_
