@@ -6,6 +6,7 @@ https://github.com/elixir-lang/elixir
 
 # JavaScript
 https://github.com/facebook/react
+https://github.com/PixelsCommander/HTML-GL
 
 # Haskell
 https://github.com/haskell/haskell-platform
