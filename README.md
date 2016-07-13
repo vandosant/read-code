@@ -9,7 +9,7 @@
   - https://github.com/PixelsCommander/HTML-GL
 
 # Haskell
-  - https://github.com/haskell/haskell-platform
+  - https://github.com/commercialhaskell/stack
 
 # Elm
   - https://github.com/elm-lang/core
