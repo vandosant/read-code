@@ -7,6 +7,7 @@
 # JavaScript
   - https://github.com/facebook/react
   - https://github.com/PixelsCommander/HTML-GL
+  - https://github.com/caolan/async
 
 # Haskell
   - https://github.com/commercialhaskell/stack
